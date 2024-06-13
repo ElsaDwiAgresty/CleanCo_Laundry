@@ -14,7 +14,7 @@
 			<div class="baris">
 				<div class="selamat-datang">
 					<div class="col-header">
-						<p class="judul-sm">Selamat Datang <span><?= ucfirst($_SESSION['master']) ?></span></p>
+						<p class="judul-sm">Selamat Datang Admin<span><?= ucfirst($_SESSION['master']) ?></span></p>
 						<h2 class="judul-md">Dashboard</h2>
 					</div>
 
